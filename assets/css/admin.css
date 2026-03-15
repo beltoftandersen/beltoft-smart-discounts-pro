@@ -1,0 +1,67 @@
+/**
+ * Beltoft Smart Discounts Pro — Admin styles.
+ *
+ * @package BeltoftSmartDiscountsPro
+ */
+
+/* ── License badge ───────────────────────────── */
+.bsdisc-pro-license-badge {
+	display: inline-block;
+	padding: 4px 12px;
+	border-radius: 3px;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 1.4;
+	color: #fff;
+}
+
+.bsdisc-pro-license-badge--active {
+	background: #00a32a;
+}
+
+.bsdisc-pro-license-badge--expired {
+	background: #d63638;
+}
+
+.bsdisc-pro-license-badge--inactive {
+	background: #787c82;
+}
+
+.bsdisc-pro-license-expires {
+	display: inline-block;
+	margin-left: 8px;
+	font-size: 13px;
+	color: #50575e;
+}
+
+.bsdisc-pro-license-message {
+	display: inline-block;
+	margin-left: 8px;
+	font-size: 13px;
+}
+
+/* ── Analytics period filter ──────────────────── */
+.bsdisc-pro-period-filter {
+	display: flex;
+	gap: 8px;
+}
+
+.bsdisc-pro-period-filter .button {
+	min-width: 80px;
+	text-align: center;
+}
+
+/* ── Import/Export section ─────────────────────── */
+.bsdisc-pro-import-export {
+	display: flex;
+	gap: 24px;
+	margin-top: 16px;
+}
+
+.bsdisc-pro-import-export .bsdisc-card {
+	flex: 1;
+}
+
+.bsdisc-pro-import-export .button {
+	margin-top: 8px;
+}
