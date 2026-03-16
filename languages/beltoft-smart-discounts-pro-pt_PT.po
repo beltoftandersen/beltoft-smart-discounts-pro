@@ -1,0 +1,422 @@
+# Portuguese (Portugal) translation for Beltoft Smart Discounts Pro.
+# Copyright (C) 2026 beltoft.net
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Beltoft Smart Discounts for WooCommerce - Pro 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/beltoft-smart-discounts-pro\n"
+"Last-Translator: beltoft.net\n"
+"Language-Team: Portuguese (Portugal)\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-03-16T07:27:47+00:00\n"
+"PO-Revision-Date: 2026-03-16 07:30+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: beltoft-smart-discounts-pro\n"
+
+#. Plugin Name of the plugin
+msgid "Beltoft Smart Discounts for WooCommerce - Pro"
+msgstr "Beltoft Smart Discounts para WooCommerce - Pro"
+
+#. Plugin URI of the plugin
+msgid "https://beltoft.net/plugins/beltoft-smart-discounts-pro/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Premium add-on for Beltoft Smart Discounts for WooCommerce."
+msgstr "Extensão premium para o Beltoft Smart Discounts para WooCommerce."
+
+#. Author of the plugin
+msgid "beltoft.net"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://beltoft.net/"
+msgstr ""
+
+msgid "Once Weekly"
+msgstr "Uma Vez por Semana"
+
+msgid "Beltoft Smart Discounts for WooCommerce - Pro requires the free \"Beltoft Smart Discounts for WooCommerce\" plugin to be installed and activated."
+msgstr "O Beltoft Smart Discounts para WooCommerce - Pro requer que o plugin gratuito \"Beltoft Smart Discounts para WooCommerce\" esteja instalado e ativado."
+
+msgid "Beltoft Smart Discounts for WooCommerce - Pro requires WooCommerce to be installed and activated."
+msgstr "O Beltoft Smart Discounts para WooCommerce - Pro requer que o WooCommerce esteja instalado e ativado."
+
+msgid "Beltoft Smart Discounts for WooCommerce - Pro requires version 1.0.0 or higher of the free plugin. Please update."
+msgstr "O Beltoft Smart Discounts para WooCommerce - Pro requer a versão 1.0.0 ou superior do plugin gratuito. Por favor atualize."
+
+msgid "Settings"
+msgstr "Definições"
+
+msgid "Discount Analytics"
+msgstr "Análises de Descontos"
+
+#, php-format
+msgid "%s Days"
+msgstr "%s Dias"
+
+msgid "Total Discounts Applied"
+msgstr "Total de Descontos Aplicados"
+
+msgid "Total Savings"
+msgstr "Poupança Total"
+
+msgid "Average Discount"
+msgstr "Desconto Médio"
+
+msgid "Per-Rule Performance"
+msgstr "Desempenho por Regra"
+
+msgid "Rule"
+msgstr "Regra"
+
+msgid "Type"
+msgstr "Tipo"
+
+msgid "Times Applied"
+msgstr "Vezes Aplicada"
+
+msgid "Avg Discount"
+msgstr "Desconto Médio"
+
+msgid "No discount usage data for this period."
+msgstr "Sem dados de utilização de descontos para este período."
+
+msgid "Specific Brands"
+msgstr "Marcas Específicas"
+
+msgid "Brands"
+msgstr "Marcas"
+
+msgid "Select brands when Applies To is set to \"Specific Brands\"."
+msgstr "Selecione marcas quando Aplica-se a está definido como \"Marcas Específicas\"."
+
+msgid "Required User Role"
+msgstr "Função do Utilizador Obrigatória"
+
+msgid "Any role"
+msgstr "Qualquer função"
+
+msgid "Used by User Role Discount rules."
+msgstr "Utilizado por regras de Desconto por Função do Utilizador."
+
+msgid "URL Discount Token"
+msgstr "Token de Desconto por URL"
+
+msgid "vip-launch-2026"
+msgstr "vip-lancamento-2026"
+
+msgid "When set, customers can activate this rule via ?bsdisc_discount=TOKEN."
+msgstr "Quando definido, os clientes podem ativar esta regra via ?bsdisc_discount=TOKEN."
+
+msgid "Pro Settings"
+msgstr "Definições Pro"
+
+msgid "Analytics"
+msgstr "Análises"
+
+msgid "License"
+msgstr "Licença"
+
+msgid "Pro settings saved."
+msgstr "Definições Pro guardadas."
+
+msgid "Countdown Timer"
+msgstr "Contagem Decrescente"
+
+msgid "Countdown Threshold (hours)"
+msgstr "Limite da Contagem Decrescente (horas)"
+
+msgid "Show countdown timer when a rule expires within this many hours."
+msgstr "Mostrar contagem decrescente quando uma regra expira dentro deste número de horas."
+
+msgid "Spending Goal"
+msgstr "Objetivo de Gasto"
+
+msgid "Display Mode"
+msgstr "Modo de Apresentação"
+
+msgid "Automatic only"
+msgstr "Apenas automático"
+
+msgid "Shortcode only"
+msgstr "Apenas shortcode"
+
+msgid "Automatic + shortcode"
+msgstr "Automático + shortcode"
+
+msgid "Use \"Shortcode only\" for page builders/blocks to avoid duplicate progress bars."
+msgstr "Use \"Apenas shortcode\" para construtores de páginas/blocos para evitar barras de progresso duplicadas."
+
+msgid "Show Progress Bar on Cart Page"
+msgstr "Mostrar Barra de Progresso na Página do Carrinho"
+
+msgid "Automatically show spending goal progress on the cart page."
+msgstr "Mostrar automaticamente o progresso do objetivo de gasto na página do carrinho."
+
+msgid "Show Progress Bar on Checkout Page"
+msgstr "Mostrar Barra de Progresso na Página de Finalização"
+
+msgid "Automatically show spending goal progress on the checkout page."
+msgstr "Mostrar automaticamente o progresso do objetivo de gasto na página de finalização de compra."
+
+msgid "Spending Goal Shortcode"
+msgstr "Shortcode do Objetivo de Gasto"
+
+msgid "To display the spending goal in a custom location, use the shortcode:"
+msgstr "Para apresentar o objetivo de gasto numa localização personalizada, use o shortcode:"
+
+msgid "Render the spending goal progress bar as inline markup for page builders or custom templates."
+msgstr "Renderizar a barra de progresso do objetivo de gasto como marcação inline para construtores de páginas ou modelos personalizados."
+
+msgid "Uncheck the automatic options above or switch display mode to \"Shortcode only\" to avoid compatibility issues."
+msgstr "Desmarque as opções automáticas acima ou mude o modo de apresentação para \"Apenas shortcode\" para evitar problemas de compatibilidade."
+
+msgid "Weekly Report Email"
+msgstr "E-mail de Relatório Semanal"
+
+msgid "Enable Report"
+msgstr "Ativar Relatório"
+
+msgid "Send weekly discount performance summary via email"
+msgstr "Enviar resumo semanal do desempenho dos descontos por e-mail"
+
+msgid "Recipient Email"
+msgstr "E-mail do Destinatário"
+
+msgid "Comma-separated email addresses. Defaults to site admin email."
+msgstr "Endereços de e-mail separados por vírgula. Por omissão, o e-mail do administrador do site."
+
+msgid "Advanced"
+msgstr "Avançado"
+
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+msgid "Delete all Pro data when plugin is uninstalled"
+msgstr "Eliminar todos os dados Pro quando o plugin é desinstalado"
+
+msgid "WARNING: This will permanently delete Pro tables, conditions, and license data."
+msgstr "AVISO: Isto irá eliminar permanentemente as tabelas Pro, condições e dados de licença."
+
+msgid "Import / Export Rules"
+msgstr "Importar / Exportar Regras"
+
+msgid "Export Rules"
+msgstr "Exportar Regras"
+
+msgid "Download CSV"
+msgstr "Transferir CSV"
+
+msgid "Import Rules"
+msgstr "Importar Regras"
+
+msgid "Import CSV"
+msgstr "Importar CSV"
+
+msgid "Upload a CSV exported from Smart Discounts."
+msgstr "Carregue um CSV exportado do Smart Discounts."
+
+msgid "Please choose a CSV file."
+msgstr "Por favor escolha um ficheiro CSV."
+
+msgid "Importing..."
+msgstr "A importar..."
+
+msgid "Import failed."
+msgstr "Falha na importação."
+
+msgid "Request failed. Please try again."
+msgstr "Pedido falhado. Por favor tente novamente."
+
+msgid "License Key"
+msgstr "Chave de Licença"
+
+msgid "Active"
+msgstr "Ativa"
+
+#, php-format
+msgid "Expires: %s"
+msgstr "Expira: %s"
+
+msgid "Lifetime"
+msgstr "Vitalícia"
+
+msgid "Inactive"
+msgstr "Inativa"
+
+msgid "Enter your license key"
+msgstr "Introduza a sua chave de licença"
+
+msgid "Deactivate"
+msgstr "Desativar"
+
+msgid "Activate"
+msgstr "Ativar"
+
+#, php-format
+msgid "Last checked: %s"
+msgstr "Última verificação: %s"
+
+msgid "Activating..."
+msgstr "A ativar..."
+
+msgid "Deactivating..."
+msgstr "A desativar..."
+
+msgid "Are you sure you want to deactivate this license?"
+msgstr "Tem a certeza de que deseja desativar esta licença?"
+
+msgid "Request failed."
+msgstr "Pedido falhado."
+
+msgid "Deactivation failed."
+msgstr "Falha na desativação."
+
+msgid "Buy One Get One (BOGO)"
+msgstr "Compre Um Leve Outro (BOGO)"
+
+#, php-format
+msgid "Discount: %s"
+msgstr "Desconto: %s"
+
+msgid "Bundle Discount"
+msgstr "Desconto de Pacote"
+
+msgid "Cart Item Count Discount"
+msgstr "Desconto por Quantidade de Itens no Carrinho"
+
+msgid "First Order Discount"
+msgstr "Desconto na Primeira Encomenda"
+
+msgid "User Role Discount"
+msgstr "Desconto por Função do Utilizador"
+
+#, php-format
+msgid "%s ends in:"
+msgstr "%s termina em:"
+
+msgid "Days"
+msgstr "Dias"
+
+msgid "Hours"
+msgstr "Horas"
+
+msgid "Min"
+msgstr "Min"
+
+msgid "Sec"
+msgstr "Seg"
+
+#, php-format
+msgid "Add %1$s more to get %2$s off!"
+msgstr "Adicione mais %1$s para obter %2$s de desconto!"
+
+#, php-format
+msgid "%1$s / %2$s"
+msgstr "%1$s / %2$s"
+
+msgid "Permission denied."
+msgstr "Permissão negada."
+
+msgid "An active Pro license is required."
+msgstr "É necessária uma licença Pro ativa."
+
+msgid "No file uploaded."
+msgstr "Nenhum ficheiro carregado."
+
+msgid "Upload failed."
+msgstr "Falha no carregamento."
+
+msgid "Only CSV files are allowed."
+msgstr "Apenas ficheiros CSV são permitidos."
+
+msgid "Could not read file."
+msgstr "Não foi possível ler o ficheiro."
+
+msgid "Invalid CSV format. Missing \"title\" column."
+msgstr "Formato CSV inválido. Coluna \"title\" em falta."
+
+#, php-format
+msgid "Import complete. %1$d rule(s) imported, %2$d error(s)."
+msgstr "Importação concluída. %1$d regra(s) importada(s), %2$d erro(s)."
+
+msgid "Please enter a license key."
+msgstr "Por favor introduza uma chave de licença."
+
+msgid "Could not connect to license server. Please try again."
+msgstr "Não foi possível ligar ao servidor de licenças. Por favor tente novamente."
+
+msgid "License key not found. Please check and try again."
+msgstr "Chave de licença não encontrada. Por favor verifique e tente novamente."
+
+msgid "License endpoint unavailable. Please try again in a moment."
+msgstr "Ponto de acesso de licença indisponível. Por favor tente novamente dentro de momentos."
+
+msgid "License activation failed."
+msgstr "Falha na ativação da licença."
+
+msgid "License activated successfully."
+msgstr "Licença ativada com sucesso."
+
+msgid "No license key to deactivate."
+msgstr "Nenhuma chave de licença para desativar."
+
+msgid "License deactivated locally. Remote deactivation could not be confirmed right now."
+msgstr "Licença desativada localmente. A desativação remota não pôde ser confirmada neste momento."
+
+msgid "License deactivated successfully."
+msgstr "Licença desativada com sucesso."
+
+#, php-format
+msgid "Smart Discounts Pro: Please <a href=\"%s\">enter your license key</a> to enable Pro features."
+msgstr "Smart Discounts Pro: Por favor <a href=\"%s\">introduza a sua chave de licença</a> para ativar as funcionalidades Pro."
+
+#, php-format
+msgid "Smart Discounts Pro: License is not activated. <a href=\"%s\">Activate your license</a> to enable Pro features and updates."
+msgstr "Smart Discounts Pro: A licença não está ativada. <a href=\"%s\">Ative a sua licença</a> para ativar funcionalidades e atualizações Pro."
+
+#, php-format
+msgid "Smart Discounts Pro: License inactive. <a href=\"%s\">Renew your license</a> to receive updates."
+msgstr "Smart Discounts Pro: Licença inativa. <a href=\"%s\">Renove a sua licença</a> para receber atualizações."
+
+#, php-format
+msgid "Smart Discounts Pro: License is not activated on this domain. <a href=\"%s\">Deactivate your old domain</a> and reactivate here."
+msgstr "Smart Discounts Pro: A licença não está ativada neste domínio. <a href=\"%s\">Desative o seu domínio anterior</a> e reative aqui."
+
+#, php-format
+msgid "Smart Discounts Pro: License key not found. Please <a href=\"%s\">check your license key</a>."
+msgstr "Smart Discounts Pro: Chave de licença não encontrada. Por favor <a href=\"%s\">verifique a sua chave de licença</a>."
+
+msgid "A valid license key is required to download updates."
+msgstr "É necessária uma chave de licença válida para transferir atualizações."
+
+msgid "Download failed."
+msgstr "Falha na transferência."
+
+msgid "Could not connect to license server to download the update."
+msgstr "Não foi possível ligar ao servidor de licenças para transferir a atualização."
+
+msgid "Could not retrieve download URL from license server."
+msgstr "Não foi possível obter o URL de transferência do servidor de licenças."
+
+#, php-format
+msgid "[%s] Weekly Discount Performance Report"
+msgstr "[%s] Relatório Semanal de Desempenho dos Descontos"
+
+msgid "Weekly Discount Performance Report"
+msgstr "Relatório Semanal de Desempenho dos Descontos"
+
+#, php-format
+msgid "Report period: Last 7 days (%s)"
+msgstr "Período do relatório: Últimos 7 dias (%s)"
+
+msgid "Top Rules"
+msgstr "Melhores Regras"
+
+msgid "Applied"
+msgstr "Aplicada"
