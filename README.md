@@ -2,8 +2,8 @@
 
 Premium add-on for Beltoft Smart Discounts for WooCommerce with BOGO, bundles, role pricing, and analytics.
 
-**Version:** 2.0.0
-**Tested up to:** WordPress 6.9 / WooCommerce 9.6
+**Version:** 2.0.1
+**Tested up to:** WordPress 7.0 / WooCommerce 9.6
 **Requires:** Beltoft Smart Discounts for WooCommerce 1.0.0+, WooCommerce 8.0+, PHP 7.4+
 **License:** GPL-2.0-or-later
 
@@ -47,6 +47,10 @@ Pro features continue to work, but you will no longer receive plugin updates unt
 Yes. Export rules as CSV from one site and import them on another.
 
 ## Changelog
+
+### 2.0.1
+
+- Tested with WordPress 7.0.
 
 ### 2.0.0
 - Rebranded to Beltoft Smart Discounts for WooCommerce - Pro

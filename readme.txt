@@ -2,9 +2,9 @@
 Contributors: beltoftnet
 Tags: woocommerce, discount, bogo, bundle, analytics
 Requires at least: 6.0
-Tested up to: 6.9
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 2.0.0
+Stable tag: 2.0.1
 License: GPL-2.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ Pro features continue to work, but you will no longer receive plugin updates unt
 Yes. Export rules as CSV from one site and import them on another via the Import/Export feature in the admin.
 
 == Changelog ==
+
+= 2.0.1 =
+- Tested with WordPress 7.0.
 
 = 2.0.0 =
 * Rebranded to Beltoft Smart Discounts for WooCommerce - Pro

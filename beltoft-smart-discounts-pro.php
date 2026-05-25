@@ -3,7 +3,7 @@
  * Plugin Name:       Beltoft Smart Discounts for WooCommerce - Pro
  * Plugin URI:        https://beltoft.net/plugins/beltoft-smart-discounts-pro/
  * Description:       Premium add-on for Beltoft Smart Discounts for WooCommerce.
- * Version:           2.0.0
+ * Version:           2.0.1
  * Requires at least: 6.0
  * Requires PHP:      7.4
  * Author:            beltoft.net
@@ -36,7 +36,7 @@ spl_autoload_register( function ( $class ) {
 } );
 
 /* ── Constants ────────────────────────────────────────────────── */
-define( 'BSDISC_PRO_VER', '2.0.0' );
+define( 'BSDISC_PRO_VER', '2.0.1' );
 define( 'BSDISC_PRO_PATH', plugin_dir_path( __FILE__ ) );
 define( 'BSDISC_PRO_URL', plugin_dir_url( __FILE__ ) );
 define( 'BSDISC_PRO_FILE', __FILE__ );
